@@ -7,5 +7,5 @@ inventory-management-svc-cpc:
   
   ingress:
     enabled: true
-    tlsSecretName: <dev-cluster-name>
+    tlsSecretName: mooc-cpat-ocp01-cluster
 
